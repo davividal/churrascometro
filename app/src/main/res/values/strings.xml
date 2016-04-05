@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Churrascometro</string>
+    <string name="calculate">Calcular</string>
+    <string name="input_men">Informe a quantidade de homens</string>
+    <string name="input_women">Informe a quantidade de mulheres</string>
+    <string name="input_children">Informe a quantidade de crianças</string>
+    <string name="title_activity_calc_result">Você deve comprar...</string>
+    <string name="linguica">Linguiça</string>
+    <string name="carne">Carne</string>
+</resources>
